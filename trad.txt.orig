@@ -9,7 +9,11 @@ en:compiler
 es:compilador
 [4]
 en:library
+<<<<<<< HEAD
+es:librería
+=======
 es:biblioteca
+>>>>>>> traductorexterno
 [5]
 en:repository
 es:repsitorio
