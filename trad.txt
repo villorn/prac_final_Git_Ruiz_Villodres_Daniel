@@ -3,16 +3,16 @@ en:keyboard
 es:
 [2]
 en:source code
-es:
+es:codigo fuente
 [3]
 en:compiler
 es:
 [4]
 en:library
-es:
+es:librería
 [5]
 en:repository
 es:
 [6]
 en:update
-es:
+es:actualizar
