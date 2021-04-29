@@ -1,0 +1,12 @@
+[1]
+en:keyboard
+[2]
+en:source code
+[3]
+en:compiler
+[4]
+en:library
+[5]
+en:repository
+[6]
+en:update
